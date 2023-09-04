@@ -1,6 +1,6 @@
-Annalzying the financial records of a company
+Stocks of a company
 
-The purpose of the this project is to analyze the financial records of the company, using the financial dataset that has been given using python script.
+The purpose of the this project is to reate a script that loops through all the stocks for one year and outputs the following information
 
  summary table 1 (Yearly stock), i created a script that loops through all the stocks for one year and output ticker symbol, yearly chane, percentage change and total stock volume of the stock.Condition formatting was also applied to the yearly change and percent change.
 
