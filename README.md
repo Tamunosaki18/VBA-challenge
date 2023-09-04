@@ -6,3 +6,5 @@ The purpose of the this project is to reate a script that loops through all the 
 
 In summary table 2, A nd i also added the functionality to my script to return with the "Greatest % increase","Greatest % decrease",and "Greatest total volume", which ran through on every work sheet and displayed in the output.
 
+I got help fron Tutor sessions, and class mates.
+
